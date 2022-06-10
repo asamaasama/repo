@@ -1,5 +1,4 @@
-{
-  "prices_from_server": [
+[
     {
       "country_name": "Germany",
       "price_name": 5.5
@@ -8,5 +7,4 @@
       "country_name": "Syria",
       "price_name": 10
     }
-  ]
-}
+]
